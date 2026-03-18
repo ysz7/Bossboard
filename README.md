@@ -1,6 +1,6 @@
 # BossBoard
 
-A full-stack business management platform for small companies. Manage your team, tasks, work hours, and company finances in one place.
+Business management platform for small companies. Manage your team, tasks, work hours, and company finances in one place.
 
 ## Features
 
